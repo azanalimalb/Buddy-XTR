@@ -7,8 +7,8 @@
   "repository": "https://github.com/carl24tech/Buddy-XTR",
   "stack": "container",
   "env": { 
-    "SESSION_ID": {
-      "description": "Ensure your session Id starts with Buddy;;;",
+    "SESSION_ID": {Buddy;;;xUYXSKRT#vNHhAToPz3TK4VqV22HNlspZdVVu1eYXcyKDh5XBBMU
+      "description": "
       "required": true,
       "value": ""
     },
